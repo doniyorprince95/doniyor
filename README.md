@@ -1,4 +1,4 @@
-# sultonov.github.io
+# xujamov.github.io
 
 > *Copyright 2019 [Doniyor Xujamov](https://doniyor.github.io). Licensed under the MIT license.*
 
